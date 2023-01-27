@@ -134,9 +134,6 @@ public class Fightingspel {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        int spelare_hälsa = 100;
-        int dator_hälsa = 100;
-
         System.out.println("Dev: Carl Hummerhielm \n <FIGHT SPEL>\n");
         System.out.print("Instruktioner:\nDu kommer att spela mot en dator och du kör bäst av 3 rundor. Du kommer att kunna välja mellan 3 svårighetsgrader. Både du och datorn har 100 hälsopoäng\n\nTryck enter för att starta\n");
         scan.nextLine();
