@@ -153,8 +153,7 @@ public class Fightingspel {
                                1. Svag attack(ingen chans att missa, 1-30 skada)
                                2. Mellan attack(40% chans att missa, 30-50 skada)
                                3. Hård attack(70% chans att missa, 50-70 skada)
-                               4. Knockout(90% att missa och man, 100 skada)
-                               5. 3 healing potions""");
+                               4. Knockout(90% att missa och man, 100 skada""");
             break;
         case 2:
             System.out.println("""
@@ -162,8 +161,7 @@ public class Fightingspel {
                                1. Svag attack(ingen chans att missa, 1-30 skada)
                                2. Mellan attack(40% chans att missa, 30-50 skada)
                                3. Hård attack(70% chans att missa, 50-70 skada)
-                               4. Knockout(95% att missa och man, 100 skada)
-                               5. 2 healing potions""");
+                               4. Knockout(95% att missa och man, 100 skada""");
             break;
         case 3:
             System.out.println("""
@@ -171,8 +169,7 @@ public class Fightingspel {
                                1. Svag attack(40% chans att missa, 1-30 skada)
                                2. Mellan attack(70% chans att missa, 30-50 skada)
                                3. Hård attack(90% chans att missa, 50-70 skada)
-                               4. Knockout(99% att missa och man, 100 skada)
-                               5. 1 healing potion""");
+                               4. Knockout(99% att missa och man, 100 skada)""");
             break;
         default:
             System.out.println("Fel val!\nDitt svar måste vara mellan 1-3");
